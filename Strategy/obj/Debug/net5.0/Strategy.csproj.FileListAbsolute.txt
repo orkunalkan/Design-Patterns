@@ -1,0 +1,16 @@
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\bin\Debug\net5.0\Strategy.exe
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\bin\Debug\net5.0\Strategy.deps.json
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.json
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\bin\Debug\net5.0\Strategy.runtimeconfig.dev.json
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\bin\Debug\net5.0\Strategy.dll
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\bin\Debug\net5.0\ref\Strategy.dll
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\bin\Debug\net5.0\Strategy.pdb
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\obj\Debug\net5.0\Strategy.csproj.AssemblyReference.cache
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\obj\Debug\net5.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfoInputs.cache
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\obj\Debug\net5.0\Strategy.AssemblyInfo.cs
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\obj\Debug\net5.0\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\obj\Debug\net5.0\Strategy.dll
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\obj\Debug\net5.0\ref\Strategy.dll
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\obj\Debug\net5.0\Strategy.pdb
+C:\Users\orkuna\source\repos\Design-Patterns\Strategy\obj\Debug\net5.0\Strategy.genruntimeconfig.cache

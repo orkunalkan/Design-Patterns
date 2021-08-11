@@ -1,0 +1,16 @@
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\bin\Debug\net5.0\Memento.exe
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\bin\Debug\net5.0\Memento.deps.json
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\bin\Debug\net5.0\Memento.runtimeconfig.json
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\bin\Debug\net5.0\Memento.runtimeconfig.dev.json
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\bin\Debug\net5.0\Memento.dll
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\bin\Debug\net5.0\ref\Memento.dll
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\bin\Debug\net5.0\Memento.pdb
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\obj\Debug\net5.0\Memento.csproj.AssemblyReference.cache
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\obj\Debug\net5.0\Memento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\obj\Debug\net5.0\Memento.AssemblyInfoInputs.cache
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\obj\Debug\net5.0\Memento.AssemblyInfo.cs
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\obj\Debug\net5.0\Memento.csproj.CoreCompileInputs.cache
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\obj\Debug\net5.0\Memento.dll
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\obj\Debug\net5.0\ref\Memento.dll
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\obj\Debug\net5.0\Memento.pdb
+C:\Users\orkuna\source\repos\Design-Patterns\Memento\obj\Debug\net5.0\Memento.genruntimeconfig.cache

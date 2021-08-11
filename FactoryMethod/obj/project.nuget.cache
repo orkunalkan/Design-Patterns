@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rNjH3fohUw4jyDXlsOYAZBTCjOyVA/2p/BPz60vOYLiJjB1KKQ11rjNWjQHu5TjBSpKXvXG9AKFfpkpv7i6+7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\orkuna\\source\\repos\\FactoryMethod\\FactoryMethod\\FactoryMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\orkuna\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

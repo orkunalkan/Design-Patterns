@@ -1,0 +1,16 @@
+C:\Users\orkuna\source\repos\Singleton\Prototype\bin\Debug\net5.0\Prototype.exe
+C:\Users\orkuna\source\repos\Singleton\Prototype\bin\Debug\net5.0\Prototype.deps.json
+C:\Users\orkuna\source\repos\Singleton\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.json
+C:\Users\orkuna\source\repos\Singleton\Prototype\bin\Debug\net5.0\Prototype.runtimeconfig.dev.json
+C:\Users\orkuna\source\repos\Singleton\Prototype\bin\Debug\net5.0\Prototype.dll
+C:\Users\orkuna\source\repos\Singleton\Prototype\bin\Debug\net5.0\ref\Prototype.dll
+C:\Users\orkuna\source\repos\Singleton\Prototype\bin\Debug\net5.0\Prototype.pdb
+C:\Users\orkuna\source\repos\Singleton\Prototype\obj\Debug\net5.0\Prototype.csproj.AssemblyReference.cache
+C:\Users\orkuna\source\repos\Singleton\Prototype\obj\Debug\net5.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orkuna\source\repos\Singleton\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfoInputs.cache
+C:\Users\orkuna\source\repos\Singleton\Prototype\obj\Debug\net5.0\Prototype.AssemblyInfo.cs
+C:\Users\orkuna\source\repos\Singleton\Prototype\obj\Debug\net5.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Users\orkuna\source\repos\Singleton\Prototype\obj\Debug\net5.0\Prototype.dll
+C:\Users\orkuna\source\repos\Singleton\Prototype\obj\Debug\net5.0\ref\Prototype.dll
+C:\Users\orkuna\source\repos\Singleton\Prototype\obj\Debug\net5.0\Prototype.pdb
+C:\Users\orkuna\source\repos\Singleton\Prototype\obj\Debug\net5.0\Prototype.genruntimeconfig.cache

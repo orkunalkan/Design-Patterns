@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\orkuna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\orkuna\\.nuget\\packages"
+    ]
+  }
+}
